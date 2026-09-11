@@ -141,6 +141,3 @@ Notes for myself:
 - Broad project-level tests live in `test/` (graph traversal, end-to-end conversion smoke tests).
 - Handler-specific unit tests live in `test/handlers/`, named `<handlerName>.test.ts`.
 
-## Credit
-
-Original project and the vast majority of the code: [p2r3/convert](https://github.com/p2r3/convert) by [p2r3](https://github.com/p2r3) and contributors, licensed under GPL-2.0.
